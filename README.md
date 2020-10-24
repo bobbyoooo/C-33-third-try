@@ -1,2 +1,2 @@
-# C-33-third-try
-Bugs fixed
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
